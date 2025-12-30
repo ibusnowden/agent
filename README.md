@@ -1,4 +1,4 @@
-# COEVOLVE: Co-Evolutionary Multi-Agent Learning Framework
+# COEVOLVE: Co-Evolutionary Multi-Agent Learning Framework.[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ibusnowden/agent)
 
 A research framework for exploring scalable oversight, multi-agent reinforcement learning, and self-correction through adversarial co-evolution.
 
